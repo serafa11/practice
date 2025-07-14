@@ -9,3 +9,9 @@ This initiative serves as a hands-on application of recently acquired data analy
 datasets are available for such exercises, this project intentionally focuses on a highly relevant local context: Bolivia’s ongoing hydrocarbon supply challenges.
 
 ### Data sources
+The dataset used in this project was sourced from the National Institute of Statistics (INE) of Bolivia’s official website, which provides downloadable records of all annual imports. For this analysis, a five-year timeframe (2020–2024) was selected to ensure a comprehensive evaluation of trends.
+### Data Integrity
+
+Raw Data: The attached files remain unmodified to preserve authenticity.
+
+Glossaries: Reference documents are included to clarify dataset column definitions, ensuring accurate interpretation.
